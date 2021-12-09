@@ -79,3 +79,4 @@ Received Import Request.
 Start importing Assets/Textures/pengu_lynn1.png using Guid(f45ba0589376b394eb307ca5e3dd273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae20f6b745c3461e83087462e01dcdeb') in 0.490122 seconds
   Import took 0.522615 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
